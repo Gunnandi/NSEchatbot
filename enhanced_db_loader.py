@@ -1,0 +1,1 @@
+# This file is no longer needed for MySQL-only setup. All user and DB setup should be handled in MySQL directly. 
